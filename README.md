@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Aditya 👋  <br>I'm a developer who enjoys building web applications and experimenting with new technologies.  <br>Currently working on projects like movie apps, APIs, and deployment workflows.  <br>
 
 
